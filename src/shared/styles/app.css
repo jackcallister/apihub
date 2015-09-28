@@ -1,0 +1,11 @@
+.wrapper {
+  padding: 30px;
+}
+
+.api-viewer {
+  display: flex;
+}
+
+.api-viewer div {
+  width: 400px;
+}
